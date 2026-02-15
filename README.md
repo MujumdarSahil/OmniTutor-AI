@@ -58,3 +58,6 @@ python scripts/test_api.py
 - `POST /generate` — `{"provider": "auto", "model": "", "prompt": "...", "temperature": 0.7}` (model chosen by server)
 - `GET /dashboard/stats` — daily usage and question categories
 - `GET /admin/logs` — last 20 request logs
+
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/c5090af7-ea72-4fd0-84d8-ee004cfd5721" />
+
